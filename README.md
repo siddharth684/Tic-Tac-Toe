@@ -4,3 +4,4 @@ You can decide how many signs you need horizontaly or vertically aligned to win.
 you can decide the lenght and bredth of the board.
 I saw this program in a youtube video but they didn't show it how it's made.
 It's not complete yet because I am stuck on a part where the program has to show the winner.
+It's made in Visual Studio 2013.
